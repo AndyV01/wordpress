@@ -32,7 +32,7 @@ define( 'DB_PASSWORD', 'c2a72e9e35114d5ae5be7e42eac55e2f05f92b8ef0df6e9376099faa
 define( 'DB_HOST', 'ec2-52-72-99-110.compute-1.amazonaws.com' );
 
 /** Database charset to use in creating database tables. */
-define( 'DB_CHARSET', 'utf8mb4' );
+define( 'DB_CHARSET', '' );
 
 /** The database collate type. Don't change this if in doubt. */
 define( 'DB_COLLATE', '' );
