@@ -1,0 +1,4 @@
+2022-06-08T21:00:37+00:00 CRITICAL StaticHTMLOutput\Options::__set(): Return type must be void when declared in C:\xampp\htdocs\wordpress\wp-content\plugins\static-html-output-plugin\src\Options.php on line 141
+
+2022-06-08T21:00:38+00:00 CRITICAL StaticHTMLOutput\Options::__set(): Return type must be void when declared in C:\xampp\htdocs\wordpress\wp-content\plugins\static-html-output-plugin\src\Options.php on line 141
+
